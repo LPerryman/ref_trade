@@ -1,6 +1,6 @@
 Label,Notation,Parent Notation,Description
 Exports,exports,,
 Imports,imports,,
-Dispatches,dispatches,exports,Exports to the EU made on an HMRC basis
-Arrivals,arrivals,imports,Imports from the EU made on an HMRC basis
+Dispatches,dispatches,exports,Exports to the EU 
+Arrivals,arrivals,imports,Imports from the EU
 Balance,balance,,Net Exports (Exports minus Imports)
